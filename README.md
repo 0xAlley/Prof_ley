@@ -1,20 +1,51 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ley.dev
 
-# Run and deploy your AI Studio app
+Website portfolio pribadi untuk Ley.
 
-This contains everything you need to run your app locally.
+Isinya tentang hal-hal yang lagi dieksplorasi, catatan kecil, project, dan link sosial. Fokus utamanya ada di AI, Web3, building, writing, dan eksperimen kecil yang dikumpulkan di `play.ley.dev`.
 
-View your app in AI Studio: https://ai.studio/apps/fae6732b-cb47-44d3-86f3-6e4973b06294
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Motion
+- Lucide React
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+Pastikan Node.js sudah terinstall.
 
+```bash
+npm install
+npm run dev
+```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Website akan jalan di:
+
+```bash
+http://localhost:3000
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Preview
+
+```bash
+npm run preview
+```
+
+## Struktur Konten
+
+Konten utama website bisa diedit dari:
+
+```bash
+src/data.ts
+```
+
+Di sana ada data profil, topik eksplorasi, journal, status sekarang, dan social links.

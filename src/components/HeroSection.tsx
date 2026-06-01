@@ -183,11 +183,11 @@ Most of what I learn ends up here.
               </div>
               <div className="flex items-center gap-1.5 hover:text-gray-300 transition-colors">
                 <Globe className="h-3.5 w-3.5 text-gold-accent/60" />
-                <a href="https://ley.dev" className="hover:underline">ley.dev</a>
+                <a href="#" className="hover:underline">ley.dev</a>
               </div>
               <div className="flex items-center gap-1.5 hover:text-gray-300 transition-colors">
                 <Calendar className="h-3.5 w-3.5 text-gold-accent/60" />
-                <span>Joined May 2017</span>
+                <span>Joined March 2026</span>
               </div>
               <div className="flex items-center gap-1.5 hover:text-gray-300 transition-colors min-w-0">
                 <Clock className="h-3.5 w-3.5 text-gold-accent/60" />
