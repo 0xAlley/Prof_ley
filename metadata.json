@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ley.dev",
+  "description": "Premium personal website, identity hub \u0026 digital journal for Ley (@0xAlley_)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
